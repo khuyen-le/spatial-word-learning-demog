@@ -9,10 +9,10 @@ first_page_instruction =
         <p>This experiment is being conducted by researchers at UC San Diego Language
         and Development Lab. Before you decide to participate, please read the following information carefully:</p>
         <br>
-        <p>In this study, you will be shown some characters and answer questions about them.<p>
+        <p>In this study, you will learn some new words.<p>
 
       <p>If you have previously completed this study or a similar one, please inform the researcher. 
-        We expect the study to last approximately 10 minutes, 
+        We expect the study to last approximately 25 minutes, 
         including the time it takes to read instructions.</p>`]
 
 consent_form = [`
