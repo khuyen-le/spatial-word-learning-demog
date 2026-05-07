@@ -96,7 +96,7 @@ demog_objective_ses_opts = ['8th grade/junior high or less', 'Some high school',
 
 demog_final_feedback_instr = "Were any parts of this experiment confusing?<p></p>We highly appreciate your feedback!"
 demog_meta_instr = `How did you choose the correct buttons?<br>
-                    What did you think ZIV mean? What did you think KERN mean?<font color="brown">*</font>`
+                    What do you think ZIV means? What do you think KERN means?<font color="brown">*</font>`
 
 demog_pid_instr = `Please enter the last 4 digits of your PID. We will use this to verify your responses.<font color="brown">*</font>`
 
